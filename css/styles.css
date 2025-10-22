@@ -1,0 +1,66 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+table{
+    background-color: beige;
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+th{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    border: 1px solid white;
+}
+.Hora{
+    background-color: #f0f0f0;
+    color: #665200;
+    font-weight: bold;
+    width: 120px;
+}
+.Patio{
+    background-color: rgb(255, 200, 80);
+    color: darkmagenta;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+.Anglès{
+    background-color: yellow;
+    color: rgb(116, 61, 99);
+}
+.Aplicacions{
+    background-color: rgb(98, 101, 255);
+    color: rgb(253, 163, 99);
+}
+.Sistemes{
+    background-color: rgb(230, 0, 230);
+    color: aquamarine;
+}
+.Muntatge{
+    background-color: gray;
+    color: white;
+}
+.Xarxes{
+    background-color: pink;
+    color: blue;
+}
+.Digi{
+    background-color: rgb(175, 255, 175);
+    color: rgb(0, 83, 0);
+}
+.IPO{
+    background-color: aqua;
+    color: black;
+}
